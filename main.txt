@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 main branch changed separately
+=======
+another feature branch change
+>>>>>>> feature-branch
